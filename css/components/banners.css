@@ -21,3 +21,15 @@
   margin-top: 10px;
 
 }
+
+@media only screen and (max-width: 600px) {
+  .banner {
+    padding: 150px;
+  }
+  .banner h1 {
+   font-size: 1.5em;
+  }
+  .banner p {
+    font-size: 1em;
+   }
+ }
